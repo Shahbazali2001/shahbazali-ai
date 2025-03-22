@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Shahbaz Ali's Portfolio",
-  description: "A Modern & Minimalist Signle Page Portfolio Website",
+  description: "A Modern & Minimalist Single Page Portfolio Website",
 };
 
 export default function RootLayout({
